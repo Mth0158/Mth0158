@@ -6,7 +6,8 @@ I am Ruby and Rails developer and mainly interested by back-end subjects.
 
 I am currently working on updating and refactoring <a href="https://github.com/Mth0158/keyz">Keyz</a> which is our final project developed during Le Wagon bootcamp.
 
-
+<br>
+<br>
 If you like my work and want me to be able to keep improving it, please follow me on GitHub.
 
 
