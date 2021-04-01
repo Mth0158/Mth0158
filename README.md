@@ -1,6 +1,13 @@
-### Hey 👋
+Hey 👋
 
-My name is
+My name is Mathieu, I've recently graduated from Le Wagon Lyon (Batch 548) and I am now coding on my own.
+
+I am Ruby and Rails developer and mainly interested by back-end subjects.
+
+
+If you like my work and want me to be able to keep improving it, please follow me on GitHub.
+
+
 <!--
 **Mth0158/Mth0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
