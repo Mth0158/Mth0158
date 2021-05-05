@@ -4,7 +4,7 @@ My name is Mathieu, I've recently graduated from Le Wagon Lyon (Batch 548) and I
 
 I am Ruby and Rails developer and mainly interested by back-end subjects.
 
-I am currently working on updating and refactoring <a href="https://github.com/Mth0158/keyz">Keyz</a> which is our final project developed during Le Wagon bootcamp.
+I am currently working on <a href="https://github.com/Mth0158/mini-keyz">Mini-Keyz</a> which is our final project developped during Le Wagon bootcamp.
 
 <br>
 <br>
