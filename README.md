@@ -1,10 +1,6 @@
 Hey 👋
 
-My name is Mathieu, I've recently graduated from Le Wagon Lyon (Batch 548) and I am now coding on my own.
-
-I am Rails and React developer and mainly interested by front-end subjects.
-
-I am currently working on <a href="https://github.com/Mth0158/mini-keyz">Mini-Keyz</a> which is our final project developped during Le Wagon bootcamp.
+My name is Mathieu, I am a Ruby on Rails developer.
 
 <br>
 <br>
