@@ -3,6 +3,8 @@ Hey 👋
 My name is Mathieu, I am a Ruby on Rails developer.
 
 <br>
+Right now looking for a job as back-end developper, preferably on Rails.
+<br>
 <br>
 If you like my work and want me to be able to keep improving it, please follow me on GitHub!
 
