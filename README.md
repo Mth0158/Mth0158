@@ -8,6 +8,7 @@ Right now looking for a job as back-end developper, preferably on Rails.
 <br>
 If you like my work and want me to be able to keep improving it, please follow me on GitHub!
 
+Right now working a lot on Figma to improve Mini-Keyz...
 
 <!--
 **Mth0158/Mth0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
