@@ -3,10 +3,11 @@ Hey 👋
 My name is Mathieu, I am a Ruby on Rails developer.
 
 <br>
-Right now looking for a job as fullstack developper on Rails.
+Right now working as Fullstack Ruby on Rails developper at [Madeinvote](https://www.madeinvote.com/). Their repository is on Gitlab so I'll be more active there.
 <br>
 <br>
-If you like my work and want me to be able to keep improving it, please follow me on GitHub!
+If you like my work and want me to be able to keep improving it, please follow me on GitHub or on Gitlab ([here](https://gitlab.com/Mth0158))!<br><br><br><br><br>
+Mth0158
 
 <!--
 **Mth0158/Mth0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
