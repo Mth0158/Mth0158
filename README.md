@@ -2,7 +2,8 @@ Hey 👋
 
 My name is Mathieu, I am a Ruby on Rails developer.
 
-I am currently working as a Fullstack RoR developper at [Madeinvote](https://www.madeinvote.com/). Their repository is on Gitlab so I'll be more active there.
+I am currently working as a Fullstack RoR developper at [Madeinvote](https://www.madeinvote.com/).<br>
+Their repository is on Gitlab so I'll be more active [there](https://gitlab.com/Mth0158).
 <br><br><br><br>
 If you like my work and want me to be able to keep improving it, please follow me on GitHub or on Gitlab ([here](https://gitlab.com/Mth0158))!
 <br><br>
