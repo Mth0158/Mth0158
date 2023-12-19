@@ -18,8 +18,6 @@ You can contact me through my [website](https://mathieu-eustachy.com/#contact-fo
 [![Mth0158's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mth0158)](https://github.com/anuraghazra/github-readme-stats)<br>
 (I am also working on [🦊 Gitlab](https://gitlab.com/Mth0158)).
 
-Mth0158
-
 <!--
 **Mth0158/Mth0158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
